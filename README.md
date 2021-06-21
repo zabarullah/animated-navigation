@@ -1,6 +1,6 @@
 # animatied-navigation
 
-Animated Navigation using Javascript Vanilla. Click the Link to try it. https://zabarullah.github.io/animatied-navigation/
+Animated Navigation using Javascript Vanilla. Click the Link to try it. https://zabarullah.github.io/animated-navigation/
 
 I have left the JS DRY code commented for learning purposes: Refactored code would look like:
 
